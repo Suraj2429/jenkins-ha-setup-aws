@@ -87,9 +87,9 @@ aws configure
 
 Provide:
 
-AWS Access Key
-AWS Secret Key
-Region
+1. AWS Access Key
+2. AWS Secret Key
+3. Region
 
 # 4️⃣ Build AMIs using Packer
 packer build jenkins-controller.pkr.hcl
